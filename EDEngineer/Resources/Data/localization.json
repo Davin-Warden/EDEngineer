@@ -4168,7 +4168,7 @@
     "Guardian Ruins": {
       "es": "Ruinas Guardianes",
       "pt": "Ruínas Guardian",
-      "de": null,
+      "de": "Guardian Ruinen",
       "fr": "Ruines Guardians",
       "ru": "Руины Стражей",
       "pl": "Ruiny Strażników",
@@ -4177,7 +4177,7 @@
     "Guardian Ruins (Active)": {
       "es": "Ruinas Guardianes (Activa)",
       "pt": "Ruínas Guardian (Ativa)",
-      "de": null,
+      "de": "Guarian Ruinen (Aktiv)",
       "fr": "Ruines Guardians (Actives)",
       "ru": "Руины Стражей (Активные)",
       "pl": "Ruiny Strażników (Aktywne)",
@@ -4276,7 +4276,7 @@
     "Concordant Sequence": {
       "es": "Secuencia Concordante",
       "pt": null,
-      "de": "gleichsinnige Sequenz",
+      "de": "Übereinstimmende Sequenz",
       "fr": "Séquence concordante",
       "ru": "Последовательность координации",
       "pl": null,
@@ -4285,7 +4285,7 @@
     "Regeneration Sequence": {
       "es": "Secuencia de Regeneración",
       "pt": null,
-      "de": "regenerierende Sequenz",
+      "de": "Regenerierende Sequenz",
       "fr": "Séquence de régénération",
       "ru": "Последовательность восстановления",
       "pl": null,
@@ -4294,7 +4294,7 @@
     "Thermal Conduit": {
       "es": "Conductor Térmico",
       "pt": "Condutor Térmico",
-      "de": "Hitzerohr",
+      "de": "Wärmeleiter",
       "fr": "Décupleur Thermique",
       "ru": "Проводник тепла",
       "pl": null,
@@ -4312,7 +4312,7 @@
     "Thermal Vent": {
       "es": "Respiradero Térmico",
       "pt": "Ventoinha Térmica",
-      "de": "Thermische Entlastung",
+      "de": "Thermisches Ventil",
       "fr": "Ventilation Thermique",
       "ru": "Теплоотдача",
       "pl": null,
@@ -4330,7 +4330,7 @@
     "Stripped Down": {
       "es": "Reducido",
       "pt": null,
-      "de": "Reduktion",
+      "de": "Reduziert",
       "fr": "Désossage",
       "ru": "Урезанный вариант",
       "pl": null,
@@ -4375,7 +4375,7 @@
     "Scramble Spectrum": {
       "es": "Espectro de Interferencias",
       "pt": null,
-      "de": "Mischungsbandbreite",
+      "de": "Störbandbreite",
       "fr": "Spectre de Brouillage",
       "ru": "Отключающая сетка",
       "pl": null,
@@ -4393,7 +4393,7 @@
     "Emissive Munitions": {
       "es": "Munición de Emisiones",
       "pt": null,
-      "de": "Emissionsgranate",
+      "de": "Emissionsmunition",
       "fr": "Munitions à Emissions",
       "ru": "Эмиссионные припасы",
       "pl": null,
@@ -4420,7 +4420,7 @@
     "Incendiary Rounds": {
       "es": "Munición Incendiaria",
       "pt": null,
-      "de": "Hitzesalven",
+      "de": "Brandmunition",
       "fr": "Munitions Incendiaires",
       "ru": "Зажигательные припасы",
       "pl": null,
@@ -4483,7 +4483,7 @@
     "Drag Munition": {
       "es": "Munición de Arrastre",
       "pt": null,
-      "de": "Ableitungsmunition",
+      "de": "Verlangsamungsmunition",
       "fr": "Munitions à Inertie",
       "ru": "Замедляющие боеприпасы",
       "pl": null,
@@ -4501,7 +4501,7 @@
     "Drag Munition (Seeker only)": {
       "es": "Munición de Arrastre (Autoguiado)",
       "pt": null,
-      "de": "Ableitungsmunition (nur Suchraketen)",
+      "de": "Verlangsamungsmunition (nur Suchraketen)",
       "fr": "Munitions à Inertie (Auto-Guidés)",
       "ru": "Замедляющие боеприпасы (лоток с самонаведением)",
       "pl": null,
@@ -4546,7 +4546,7 @@
     "Penetrator Payload": {
       "es": "Carga Explosiva Penetrante",
       "pt": null,
-      "de": "Penetrationsmunition",
+      "de": "Durchdringungsladung",
       "fr": "Charge explosive Perforante",
       "ru": "Бронебойные снаряды",
       "pl": null,
@@ -4555,7 +4555,7 @@
     "Reverberating Cascade": {
       "es": "Reverberación en Cascada",
       "pt": null,
-      "de": "Rückstrahlkaskade",
+      "de": "Schwingungskaskade",
       "fr": "Réverbérations en Série",
       "ru": "Отраженный залп",
       "pl": null,
@@ -4564,7 +4564,7 @@
     "Ion Disruptor": {
       "es": "Disrupción de Iones",
       "pt": null,
-      "de": "Ionen-Disruption",
+      "de": "Ionen-Unterbrechung",
       "fr": "Perturbation Ionique",
       "ru": "Ионный дестабилизатор",
       "pl": null,
@@ -4582,7 +4582,7 @@
     "Shift-Lock Canister": {
       "es": "Cartucho Bloqueo de Salto",
       "pt": null,
-      "de": "Frameshift-Blocker",
+      "de": "FSA-Blocker Behälter",
       "fr": "Cartouche de Verrouillage FSD",
       "ru": "Рамоблокирующая кассета",
       "pl": null,
@@ -4591,7 +4591,7 @@
     "Target Lock Breaker": {
       "es": "Interruptor de Selección",
       "pt": null,
-      "de": null,
+      "de": "Zielerfassungsunterbrecher",
       "fr": null,
       "ru": "Генератор помех для системы захвата цели",
       "pl": null,
@@ -4699,7 +4699,7 @@
     "Monstered": {
       "es": "A lo bestia",
       "pt": null,
-      "de": "monströs",
+      "de": "Monströs",
       "fr": "Modèle XXL",
       "ru": "Монстрация",
       "pl": null,
@@ -4708,7 +4708,7 @@
     "Angled Plating": {
       "es": "Blindaje en Ángulo",
       "pt": null,
-      "de": "Abgewinkelte Beschichtung",
+      "de": "Abgewinkelte Panzerung",
       "fr": "Blindage Anguleux",
       "ru": "Угловая броня",
       "pl": null,
@@ -4717,7 +4717,7 @@
     "Layered Plating": {
       "es": "Blindaje en Capas",
       "pt": null,
-      "de": "Mehrschichtige Beschichtung",
+      "de": "Mehrschichtige Panzerung",
       "fr": "Blindage à Couches",
       "ru": "Многослойная броня",
       "pl": null,
@@ -4726,7 +4726,7 @@
     "Reflective Plating": {
       "es": "Blindaje Reflectante",
       "pt": null,
-      "de": "Reflektierende Beschichtung",
+      "de": "Reflektierende Panzerung",
       "fr": "Blindage Réfléchissant",
       "ru": "Отражающая броня",
       "pl": null,
@@ -4735,7 +4735,7 @@
     "Deep Plating": {
       "es": "Blindaje Profundo",
       "pt": null,
-      "de": "Tiefenüberzug",
+      "de": "Tiefenpanzerung",
       "fr": "Blindage Epais",
       "ru": "Утолщенная броня",
       "pl": null,
@@ -4798,7 +4798,7 @@
     "Hi-cap": {
       "es": "Alta Capacidad",
       "pt": null,
-      "de": "Hi-cap",
+      "de": "Hohe Kapazität",
       "fr": "Puissance Renforcée",
       "ru": "Высокая емкость",
       "pl": null,
@@ -4825,7 +4825,7 @@
     "Lo-draw": {
       "es": "Consumo Reducido",
       "pt": null,
-      "de": "Lo-draw",
+      "de": "Geringe Entnahme",
       "fr": "Consommation Réduite",
       "ru": "Пониженное потребление",
       "pl": null,
@@ -4861,7 +4861,7 @@
     "Drag Drives": {
       "es": "Impulsores de Arrastre",
       "pt": null,
-      "de": "Drag Antriebe",
+      "de": "Verzögerungsantriebe",
       "fr": "Débridage des réacteurs",
       "ru": "Ускорители",
       "pl": null,
@@ -4870,7 +4870,7 @@
     "Super Conduits": {
       "es": "Superconductores",
       "pt": null,
-      "de": "Superleiter",
+      "de": "Supraleiter",
       "fr": "Super Conduits",
       "ru": "Сверхпроводники",
       "pl": null,
@@ -4879,7 +4879,7 @@
     "Cluster Capacitor": {
       "es": "Condensador de Grupo",
       "pt": null,
-      "de": "Cluster Kondensator",
+      "de": "Gruppenkondensator",
       "fr": "Batterie de Condensateurs",
       "ru": "Кассетный конденсатор",
       "pl": null,
@@ -4897,7 +4897,7 @@
     "Thargoid Ship": {
       "es": "Nave Thargoide",
       "pt": "Nave Thargoid",
-      "de": null,
+      "de": "Thargoid Schiff",
       "fr": "Vaisseau Thargoid",
       "ru": "Корабль Таргоидов",
       "pl": null,
@@ -4906,7 +4906,7 @@
     "Thargoid Site": {
       "es": "Sitio Thargoide",
       "pt": "Construção Thargoid",
-      "de": null,
+      "de": "Thargoid Standort",
       "fr": "Site Thargoid",
       "ru": "База Таргоидов",
       "pl": null,
@@ -5023,7 +5023,7 @@
     "Long Range FSD Interdictor": {
       "es": "Interdictor de MDD de Largo Alcance",
       "pt": "Interditor de MDD de Longo Alcance",
-      "de": null,
+      "de": "FSA Fernabfänger",
       "fr": "Intercepteur FSD longue portée",
       "ru": "FSD-перехватчик большой дальности",
       "pl": null,
@@ -5032,7 +5032,7 @@
     "Guardian Plasma Charger Munitions": {
       "es": "Munición de Cargador de Plasma Guardián",
       "pt": null,
-      "de": "Guardian-Plasmaladermunition",
+      "de": "Guardian Plasmaladungsmunition",
       "fr": "Munitions de Chargeur Plasma Guardians",
       "ru": "Боеприпасы для плазменных пушек Стражей",
       "pl": null,
@@ -5041,7 +5041,7 @@
     "Guardian Gauss Cannon Munitions": {
       "es": "Munición de Cañón Gauss Guardián",
       "pt": null,
-      "de": "Guardian-Gausskannonenmunition",
+      "de": "Guardian Gauss-Kanonenmunition",
       "fr": "Munitions de Canon Gauss Guardians",
       "ru": "Боеприпасы для пушек Гаусса Стражей",
       "pl": null,
@@ -5104,7 +5104,7 @@
     "Guardian Shard Cannon Munitions": {
       "es": "Munición Cañón de Esquirlas Guardián",
       "pt": null,
-      "de": "Guardian-Fragmentkanonenmunition",
+      "de": "Guardian Fragmentkanonenmunition",
       "fr": "Munitions Canon à Eclats - Guardians",
       "ru": "Боеприпасы для осколочных орудий Стражей",
       "pl": null,
@@ -5131,7 +5131,7 @@
     "Guardian Gauss Cannon (Fixed, Medium)": {
       "es": "Cañón Gauss Guardián (Fijo) (Clase 2)",
       "pt": null,
-      "de": "Guardian-Gausskanone (Fest) (Klasse: 2)",
+      "de": "Guardian Gausskanone (Fest) (Klasse: 2)",
       "fr": "Canon Gauss - Guardians (Fixe, Classe 2)",
       "ru": "Пушка Гаусса Стражей (фиксированное, средний слот)",
       "pl": null,
@@ -5140,7 +5140,7 @@
     "Guardian Gauss Cannon (Fixed, Small)": {
       "es": "Cañón Gauss Guardián (Fijo) (Clase 1)",
       "pt": null,
-      "de": "Guardian-Gausskanone (Fest) (Klasse: 1)",
+      "de": "Guardian Gausskanone (Fest) (Klasse: 1)",
       "fr": "Canon Gauss - Guardians (Fixe, Classe 1)",
       "ru": "Пушка Гаусса Стражей (фиксированное, малый слот)",
       "pl": null,
@@ -5149,7 +5149,7 @@
     "Guardian Hull Reinforcement": {
       "es": "Paquete de Refuerzo Estructural Guardián",
       "pt": null,
-      "de": "Guardian-Rumpfhüllenverstärkung",
+      "de": "Guardian Rumpfhüllenverstärkung",
       "fr": "Renforcement de Coque - Guardians",
       "ru": "Набор для усиления корпуса Стражей",
       "pl": null,
@@ -5158,7 +5158,7 @@
     "Guardian Module Reinforcement": {
       "es": "Paquete de Refuerzo de Módulo Guardián",
       "pt": null,
-      "de": "Guardian-Modulverstärkung",
+      "de": "Guardian Modulverstärkung",
       "fr": "Renforcement de Modules - Guardians",
       "ru": "Набор для усиления модуля Стражей",
       "pl": null,
@@ -5167,7 +5167,7 @@
     "Guardian Plasma Charger (Fixed, Large)": {
       "es": "Cargador de Plasma Guardián (Fijo) (Clase 3)",
       "pt": null,
-      "de": "Guardian-Plasmalader (Fest) (Klasse: 3)",
+      "de": "Guardian Plasmalader (Fest) (Klasse: 3)",
       "fr": "Chargeur Plasma - Guardians (Fixe, Classe 3)",
       "ru": "Плазменная пушка Стражей (фиксированное, большой слот)",
       "pl": null,
@@ -5176,7 +5176,7 @@
     "Guardian Plasma Charger (Fixed, Medium)": {
       "es": "Cargador de Plasma Guardián (Fijo) (Clase 2)",
       "pt": null,
-      "de": "Guardian-Plasmalader (Fest) (Klasse: 2)",
+      "de": "Guardian Plasmalader (Fest) (Klasse: 2)",
       "fr": "Chargeur Plasma - Guardians (Fixe, Classe 2)",
       "ru": "Плазменная пушка Стражей (фиксированное, средний слот)",
       "pl": null,
@@ -5185,7 +5185,7 @@
     "Guardian Plasma Charger (Fixed, Small)": {
       "es": "Cargador de Plasma Guardián (Fijo) (Clase 1)",
       "pt": null,
-      "de": "Guardian-Plasmalader (Fest) (Klasse: 1)",
+      "de": "Guardian Plasmalader (Fest) (Klasse: 1)",
       "fr": "Chargeur Plasma - Guardians (Fixe, Classe 1)",
       "ru": "Плазменная пушка Стражей (фиксированное, малый слот)",
       "pl": null,
@@ -5194,7 +5194,7 @@
     "Guardian Plasma Charger (Turreted, Large)": {
       "es": "Cargador de Plasma Guardián (Torreta) (Clase 3)",
       "pt": null,
-      "de": "Guardian-Plasmalader (Turm) (Klasse: 3)",
+      "de": "Guardian Plasmalader (Turm) (Klasse: 3)",
       "fr": "Chargeur Plasma - Guardians (Tourelle, Classe 3)",
       "ru": "Плазменная пушка Стражей (турель, большой слот)",
       "pl": null,
@@ -5203,7 +5203,7 @@
     "Guardian Plasma Charger (Turreted, Medium)": {
       "es": "Cargador de Plasma Guardián (Torreta) (Clase 2)",
       "pt": null,
-      "de": "Guardian-Plasmalader (Turm) (Klasse: 2)",
+      "de": "Guardian Plasmalader (Turm) (Klasse: 2)",
       "fr": "Chargeur Plasma - Guardians (Tourelle, Classe 2)",
       "ru": "Плазменная пушка Стражей (турель, средний слот)",
       "pl": null,
@@ -5212,7 +5212,7 @@
     "Guardian Plasma Charger (Turreted, Small)": {
       "es": "Cargador de Plasma Guardián (Torreta) (Clase 1)",
       "pt": null,
-      "de": "Guardian-Plasmalader (Turm) (Klasse: 1)",
+      "de": "Guardian Plasmalader (Turm) (Klasse: 1)",
       "fr": "Chargeur Plasma - Guardians (Tourelle, Classe 1)",
       "ru": "Плазменная пушка Стражей (турель, малый слот)",
       "pl": null,
@@ -5221,7 +5221,7 @@
     "Guardian FSD Booster": {
       "es": "Potenciador de Motor de Distorsión Guardián",
       "pt": null,
-      "de": "Guardian-Frameshiftantrieb-Booster",
+      "de": "Guardian FSA Verstärker",
       "fr": "Survolteur FSD - Guardians",
       "ru": "Ускоритель FSD Стражей",
       "pl": null,
@@ -5230,7 +5230,7 @@
     "Guardian Power Distributor": {
       "es": "Distribuidor de Energía Híbrido Guardián",
       "pt": null,
-      "de": "Guardian-Energieverteiler",
+      "de": "Guardian Energieverteiler",
       "fr": "Répartiteur de Puissance - Guardians",
       "ru": "Распределитель питания Стражей",
       "pl": null,
@@ -5239,7 +5239,7 @@
     "Guardian Shard Cannon (Fixed, Large)": {
       "es": "Cañón de Esquirlas Guardián (Fijo) (Clase 3)",
       "pt": null,
-      "de": "Guardian-Fragmentkanone (Fest) (Klasse: 3)",
+      "de": "Guardian Fragmentkanone (Fest) (Klasse: 3)",
       "fr": "Canons à Eclats - Guardians (Fixe, Classe 3)",
       "ru": "Осколочное орудие Стражей (фиксированное, большой слот)",
       "pl": null,
@@ -5248,7 +5248,7 @@
     "Guardian Shard Cannon (Fixed, Medium)": {
       "es": "Cañón de Esquirlas Guardián (Fijo) (Clase 2)",
       "pt": null,
-      "de": "Guardian-Fragmentkanone (Fest) (Klasse: 2)",
+      "de": "Guardian Fragmentkanone (Fest) (Klasse: 2)",
       "fr": "Canons à Eclats - Guardians (Fixe, Classe 2)",
       "ru": "Осколочное орудие Стражей (фиксированное, средний слот)",
       "pl": null,
@@ -5257,7 +5257,7 @@
     "Guardian Shard Cannon (Fixed, Small)": {
       "es": "Cañón de Esquirlas Guardián (Fijo) (Clase 1)",
       "pt": null,
-      "de": "Guardian-Fragmentkanone (Fest) (Klasse: 1)",
+      "de": "Guardian Fragmentkanone (Fest) (Klasse: 1)",
       "fr": "Canons à Eclats - Guardians (Fixe, Classe 1)",
       "ru": "Осколочное орудие Стражей (фиксированное, малый слот)",
       "pl": null,
@@ -5266,7 +5266,7 @@
     "Guardian Shard Cannon (Turreted, Large)": {
       "es": "Cañón de Esquirlas Guardián (Torreta) (Clase 3)",
       "pt": null,
-      "de": "Guardian-Fragmentkanone (Turm) (Klasse: 3)",
+      "de": "Guardian Fragmentkanone (Turm) (Klasse: 3)",
       "fr": "Canons à Eclats - Guardians (Tourelle, Classe 3)",
       "ru": "Осколочное орудие Стражей (турель, большой слот)",
       "pl": null,
@@ -5275,7 +5275,7 @@
     "Guardian Shard Cannon (Turreted, Medium)": {
       "es": "Cañón de Esquirlas Guardián (Torreta) (Clase 2)",
       "pt": null,
-      "de": "Guardian-Fragmentkanone (Turm) (Klasse: 2)",
+      "de": "Guardian Fragmentkanone (Turm) (Klasse: 2)",
       "fr": "Canons à Eclats - Guardians (Tourelle, Classe 2)",
       "ru": "Осколочное орудие Стражей (турель, средний слот)",
       "pl": null,
@@ -5284,7 +5284,7 @@
     "Guardian Shard Cannon (Turreted, Small)": {
       "es": "Cañón de Esquirlas Guardián (Torreta) (Clase 1)",
       "pt": null,
-      "de": "Guardian-Fragmentkanone (Turm) (Klasse: 1)",
+      "de": "Guardian Fragmentkanone (Turm) (Klasse: 1)",
       "fr": "Canons à Eclats - Guardians (Tourelle, Classe 1)",
       "ru": "Осколочное орудие Стражей (турель, малый слот)",
       "pl": null,
@@ -5293,7 +5293,7 @@
     "Guardian Shield Reinforcement": {
       "es": "Paquete de Refuerzo de Escudo Guardián",
       "pt": null,
-      "de": "Guardian-Schildverstärkung",
+      "de": "Guardian Schildverstärkung",
       "fr": "Renforcement de Bouclier - Guardians",
       "ru": "Набор для усиления щита Стражей",
       "pl": null,
@@ -5302,7 +5302,7 @@
     "Javelin (Fighter)": {
       "es": "Javelin XG8 (Caza)",
       "pt": null,
-      "de": "Javelin (Fighter)",
+      "de": "Javelin (Jäger)",
       "fr": "Javelin (Chasseur)",
       "ru": "Javelin (Истребитель)",
       "pl": null,
@@ -5311,7 +5311,7 @@
     "Lance (Fighter)": {
       "es": "Lance XG9 (Caza)",
       "pt": null,
-      "de": "Lance (Fighter)",
+      "de": "Lance (Jäger)",
       "fr": "Lance (Chasseur)",
       "ru": "Lance (Истребитель)",
       "pl": null,
@@ -5320,7 +5320,7 @@
     "Trident (Fighter)": {
       "es": "Trident XG7 (Caza)",
       "pt": null,
-      "de": "Trident (Fighter)",
+      "de": "Trident (Jäger)",
       "fr": "Trident (Chasseur)",
       "ru": "Trident (Истребитель)",
       "pl": null,
@@ -5329,7 +5329,7 @@
     "Shock Cannon (Fixed, Large)": {
       "es": "Cañón de Choque (Fijo) (Clase 3)",
       "pt": null,
-      "de": null,
+      "de": "Schock Kanone (Fixiert, Klasse 3)",
       "fr": "Canon de Choc (Fixe, Classe 3)",
       "ru": "Осколочное орудие Стражей (фиксированное, большой слот)",
       "pl": null,
@@ -5338,7 +5338,7 @@
     "Shock Cannon (Fixed, Medium)": {
       "es": "Cañón de Choque (Fijo) (Clase 2)",
       "pt": null,
-      "de": null,
+      "de": "Schock Kanone (Fixiert, Klasse 2)",
       "fr": "Canon de Choc (Fixe, Classe 2)",
       "ru": "Шоковое орудие (фиксированное, средний слот)",
       "pl": null,
@@ -5347,7 +5347,7 @@
     "Shock Cannon (Fixed, Small)": {
       "es": "Cañón de Choque (Fijo) (Clase 1)",
       "pt": null,
-      "de": null,
+      "de": "Schock Kanone (Fixiert, Klasse 1)",
       "fr": "Canon de Choc (Fixe, Classe 1)",
       "ru": "Шоковое орудие (фиксированное, малый слот)",
       "pl": null,
@@ -5356,7 +5356,7 @@
     "Shock Cannon (Gimballed, Large)": {
       "es": "Cañón de Choque (Autoguiado) (Clase 3)",
       "pt": null,
-      "de": null,
+      "de": "Schock Kanone (Rotierend, Klasse 3)",
       "fr": "Canon de Choc (PE Rotatif, Classe 3)",
       "ru": "Шоковое орудие (на карданной подвеске, большой слот)",
       "pl": null,
@@ -5365,7 +5365,7 @@
     "Shock Cannon (Gimballed, Medium)": {
       "es": "Cañón de Choque (Autoguiado) (Clase 2)",
       "pt": null,
-      "de": null,
+      "de": "Schock Kanone (Rotierend, Klasse 2)",
       "fr": "Canon de Choc (PE Rotatif, Classe 2)",
       "ru": "Шоковое орудие (на карданной подвеске, средний слот)",
       "pl": null,
@@ -5374,7 +5374,7 @@
     "Shock Cannon (Gimballed, Small)": {
       "es": "Cañón de Choque (Autoguiado) (Clase 1)",
       "pt": null,
-      "de": null,
+      "de": "Schock Kanone (Rotierend, Klasse 1)",
       "fr": "Canon de Choc (PE Rotatif, Classe 1)",
       "ru": "Шоковое орудие (на карданной подвеске, малый слот)",
       "pl": null,
@@ -5383,7 +5383,7 @@
     "Shock Cannon (Turreted, Large)": {
       "es": "Cañón de Choque (Torreta) (Clase 3)",
       "pt": null,
-      "de": null,
+      "de": "Schock Kanone (Turm, Klasse 3)",
       "fr": "Canon de Choc (Tourelle, Classe 3)",
       "ru": "Шоковое орудие (турель, большой слот)",
       "pl": null,
@@ -5392,7 +5392,7 @@
     "Shock Cannon (Turreted, Medium)": {
       "es": "Cañón de Choque (Torreta) (Clase 2)",
       "pt": null,
-      "de": null,
+      "de": "Schock Kanone (Rotierend, Klasse 2)",
       "fr": "Canon de Choc (Tourelle, Classe 2)",
       "ru": "Шоковое орудие (турель, средний слот)",
       "pl": null,
@@ -5401,7 +5401,7 @@
     "Shock Cannon (Turreted, Small)": {
       "es": "Cañón de Choque (Torreta) (Clase 1)",
       "pt": null,
-      "de": null,
+      "de": "Schock Kanone (Rotierend, Klasse 1)",
       "fr": "Canon de Choc (Tourelle, Classe 1)",
       "ru": "Шоковое орудие (турель, малый слот)",
       "pl": null,
@@ -5509,7 +5509,7 @@
     "Progenitor Cells": {
       "es": "Células Madre",
       "pt": "Células progenitoras",
-      "de": "Vorläuferzellen",
+      "de": "Vorfahrenzellen",
       "fr": null,
       "ru": "Прогениторные клетки",
       "pl": null,
@@ -5527,7 +5527,7 @@
     "Guardian Wreckage Components": {
       "es": "Restos de Accidente Guardián",
       "pt": null,
-      "de": "Guardian-Wrackteilkomponenten",
+      "de": "Guardian Wrackteilkomponenten",
       "fr": "Débris d'épave Guardians",
       "ru": "Обломки часовых Стражей",
       "pl": null,
@@ -5536,7 +5536,7 @@
     "Reload all data": {
       "es": "Recargar todos los datos",
       "pt": "Recarregar todos os dados",
-      "de": null,
+      "de": "Neuladen aller Daten",
       "fr": "Recharger toutes les données",
       "ru": "Перезагрузить все данные",
       "pl": "Przeładuj wszystkie dane",
@@ -5545,7 +5545,7 @@
     "Export/Import Settings": {
       "es": "Exportar/Importar Ajustes",
       "pt": "Exportar/Importar Configurações",
-      "de": null,
+      "de": "Exportiere/Importiere Einstellungen",
       "fr": null,
       "ru": "Экспорт/Импорт настроек",
       "pl": "Eksportuj/Importuj Ustawienia",
@@ -5554,7 +5554,7 @@
     "Access API from other computers? (tick only if you know what you're doing)": {
       "es": "¿Acceso a la API desde otros equipos? (marcar sólo si sabes lo que estás haciendo)",
       "pt": null,
-      "de": null,
+      "de": "API-Zugriff von anderen Computern? (Nur ankreuzen wenn Sie wissen was Sie tun)",
       "fr": null,
       "ru": null,
       "pl": null,
